@@ -1,5 +1,5 @@
 import { Given, When, Then, After, BeforeAll } from '@wdio/cucumber-framework';
-//import { expect, $ } from '@wdio/globals'
+import { expect, $ } from '@wdio/globals'
 
 import NewsPaperTab from '../../pageobjects/mobilePageObjects/newspaper.tab.ts';
 import ArchivesTab from '../../pageobjects/mobilePageObjects/archives.tab.ts';
