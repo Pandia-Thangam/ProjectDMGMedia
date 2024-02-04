@@ -1,1 +1,44 @@
 # ProjectDMGMedia
+
+This project is created with below pattern,
+
+* Frameworks:
+  - WebdriverIO
+  - Cucumber
+  - Typescript
+    
+* Features:
+  - Page Object Model
+  - Web automation on Chrome
+  - Mobile automation using Appium on Android Studio
+
+* Reporting
+  - Cucumber html report
+ 
+    
+## For Installation
+Run the below command
+```bash
+npm install
+```
+
+## For Execution
+Run below command for Mobile automation
+```bash
+npm run wdioMobile
+```
+
+Run below command for Web automation
+```bash
+npm run wdioWeb
+```
+
+## Links
+[GITHUB Code](https://github.com/Pandia-Thangam/ProjectDMGMedia.git)
+
+[Zip Folder](https://drive.google.com/file/d/1JqhMOZHm6k1rPCsuwkE8H1rYThu0SaJ6/view?usp=drive_link)
+
+
+[Video - Mobile Automation Execution Sample](https://drive.google.com/file/d/1fwlJqEJoWTwgSHs0ZMjo-7wpp1GKOMeg/view?usp=drive_link)
+
+[Video - Web Automation Execution Sample](https://drive.google.com/file/d/1uW7xlkqS95u6H7THNWUO6OdJVeScU9pR/view?usp=drive_link)
