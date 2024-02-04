@@ -9,8 +9,8 @@ This project is created with below pattern,
     
 * Features:
   - Page Object Pattern
-  - Web automation using Chrome
-  - Appium
+  - Web automation on Chrome
+  - Mobile automation using Appium on Android Studio
 
 * Reporting
   - Cucumber html report
