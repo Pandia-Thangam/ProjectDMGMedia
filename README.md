@@ -8,7 +8,7 @@ This project is created with below pattern,
   - Typescript
     
 * Features:
-  - Page Object Pattern
+  - Page Object Model
   - Web automation on Chrome
   - Mobile automation using Appium on Android Studio
 
